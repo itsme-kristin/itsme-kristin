@@ -1,4 +1,4 @@
-<img alt="banner" src="https://www.canva.com/design/DAEtlrgQDXo/X7xZM51j-C3zn8rqlXYNww/view?utm_content=DAEtlrgQDXo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" width="480px" />
+
 
 ### Hi there 👋
 
